@@ -1,0 +1,23 @@
+.category {
+    display: inline-flex;
+    flex-direction: column;
+    margin: 15px 10px 0 10px;
+    cursor: pointer;
+}
+
+.movieImage {
+    width: 150px;
+    height: 200px;
+}
+
+.movieDetails {
+    display: block;
+    width: 170px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.imageDetails {
+    display: block;
+}
