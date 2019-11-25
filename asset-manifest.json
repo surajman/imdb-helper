@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "surajman.github.io/imdb-helper/static/css/main.add3e49b.chunk.css",
+    "main.js": "surajman.github.io/imdb-helper/static/js/main.e4c19e09.chunk.js",
+    "main.js.map": "surajman.github.io/imdb-helper/static/js/main.e4c19e09.chunk.js.map",
+    "runtime-main.js": "surajman.github.io/imdb-helper/static/js/runtime-main.95e9ab45.js",
+    "runtime-main.js.map": "surajman.github.io/imdb-helper/static/js/runtime-main.95e9ab45.js.map",
+    "static/js/2.0f8770c3.chunk.js": "surajman.github.io/imdb-helper/static/js/2.0f8770c3.chunk.js",
+    "static/js/2.0f8770c3.chunk.js.map": "surajman.github.io/imdb-helper/static/js/2.0f8770c3.chunk.js.map",
+    "index.html": "surajman.github.io/imdb-helper/index.html",
+    "precache-manifest.2a6fb06e0f4cef032f5a169fbe5e9fe1.js": "surajman.github.io/imdb-helper/precache-manifest.2a6fb06e0f4cef032f5a169fbe5e9fe1.js",
+    "service-worker.js": "surajman.github.io/imdb-helper/service-worker.js",
+    "static/css/main.add3e49b.chunk.css.map": "surajman.github.io/imdb-helper/static/css/main.add3e49b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95e9ab45.js",
+    "static/js/2.0f8770c3.chunk.js",
+    "static/css/main.add3e49b.chunk.css",
+    "static/js/main.e4c19e09.chunk.js"
+  ]
+}
